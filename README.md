@@ -1,0 +1,2 @@
+# inventoryoptimizer
+Microsoft Fabric Hackathon
